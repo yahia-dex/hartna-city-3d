@@ -1,0 +1,2 @@
+# handle,country  (name or 2-letter code). Example:
+# idk_yahia_,Egypt
